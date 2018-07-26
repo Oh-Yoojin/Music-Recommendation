@@ -16,7 +16,7 @@ We can classify artists by their lyrics. Therefore, we can judge that the lyrics
 Collect in order of popular rankings for POP music (Title, Singer)
 * Use POP, Rock/Metal, R&B/Soul, Folk/Blues/Country genre
 * Collect lyrics from 'AZLyrics' website (https://www.azlyrics.com/)
-
+* Use 'Emolex' sentiment vocab
 
 #### Framework
 * Collect data from website
