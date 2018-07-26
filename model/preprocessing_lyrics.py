@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  1 12:48:28 2017
-
-@author: User
-"""
 
 import numpy as np
 import pandas as pd
@@ -159,3 +153,5 @@ topic_list['Topic'] = ['love','music','party','nature','breakup']
 
 lda_topic_mat = pd.DataFrame(doc_topic)
 lda_topic_mat.columns = topic_list['Topic']
+
+
